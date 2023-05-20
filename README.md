@@ -10,7 +10,7 @@ Excel- For Data cleaning and visualizations
 R - For statistical Modelling
 
 # DATA
-The Data used in the project is not public due to non disclosure agreement. The data set includes a stated preference survey and a Revealed Preference survey.
+The data used in the model is secondary data obtained from earlier researchers, who surveyed to obtain the data from select locations of Banglore city. The Data used in the project is not produced here due to non disclosure agreement. The data set includes a stated preference survey and a Revealed Preference survey.
 
 # Data cleaning using python and Excel
 The data used in the model is made error free using combination of python and Excel tools. A python code is attached here to show the work
